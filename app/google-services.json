@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948575090269",
+    "project_id": "cloudnotes-51af8",
+    "storage_bucket": "cloudnotes-51af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948575090269:android:32849a82b10fe2a984bfb4",
+        "android_client_info": {
+          "package_name": "com.example.cloudnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxID3H8o7-2uUKn6g7LF4zEHaW-JzXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
